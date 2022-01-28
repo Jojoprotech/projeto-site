@@ -9,7 +9,11 @@ body {
 }
 
 main {
+<<<<<<< Updated upstream
     background-color: rgb(243, 231, 208);
+=======
+    background-color: floralwhite;
+>>>>>>> Stashed changes
     width: 500px;
     margin: auto;
     padding: 10px;
